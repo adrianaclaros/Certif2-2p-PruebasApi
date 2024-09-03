@@ -1,4 +1,4 @@
-# Pruebas automatizadas para la pagina Sauce Demo.
+# Pruebas automatizadas para el Api Restful Booker.
 El presente proyecto trata de un conjunto de pruebas automatizadas desarrollado en Java. 
 Este proyecto tiene la función de automatizar un conjunto de pruebas para validar la funcionalidad de el [api](https://restful-booker.herokuapp.com/apidoc/index.html).
 
